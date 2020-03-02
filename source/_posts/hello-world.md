@@ -8,10 +8,10 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### Create a new post
 
 ``` bash
-$ hexo new "My New Post"
+$ hexo new "My New Post" just test
 ```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+More info: [Writing](https://hexo.io/docs/writing.html) 
 
 ### Run server
 
